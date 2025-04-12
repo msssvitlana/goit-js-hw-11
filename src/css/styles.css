@@ -167,6 +167,7 @@ button:hover {
   align-items: center;
   font-size: 14px;
   color: #333;
+  gap: 8px;
 }
 .gallery-item img {
   width: 100%;

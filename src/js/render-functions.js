@@ -45,12 +45,12 @@ function clearGallery() {
 
 function showLoader() {
   loader.classList.remove('visually-hidden');
-  console.log('ok');
+  console.log('showLoader');
 }
 
 function hideLoader() {
   loader.classList.add('visually-hidden');
-  console.log('stop');
+  console.log('hideLoader');
 }
 function refreshLightbox() {
   lightbox.refresh();
